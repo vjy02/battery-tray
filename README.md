@@ -24,17 +24,6 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-## Diagnose
-
-Run:
-
-```powershell
-python tools\list_devices.py
-python tools\inspect_hid.py
-```
-
-The inspector passively listens to the X11 and HyperX interfaces and does not send vendor commands.
-
 ## Run
 
 ```powershell
