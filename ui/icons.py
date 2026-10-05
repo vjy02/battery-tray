@@ -1,3 +1,5 @@
+import math
+
 OUT = 64         
 SS = 4            
 S = OUT * SS
